@@ -1,5 +1,5 @@
 pool:
-  name: 'project-one'
+  name: 'jump-server'
   
 variables:
   version: 'frontend_$(Build.BuildId)'
